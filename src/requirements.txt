@@ -1,0 +1,6 @@
+click
+python-qpid-proton
+pyngus
+python-json-logger
+PyYAML
+paho-mqtt

@@ -1,0 +1,7 @@
+.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+src/__pycache__/
+src/certs/
+nwixn/
